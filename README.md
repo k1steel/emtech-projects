@@ -1,2 +1,2 @@
 # emtech-projects
-Repositorio para casos prácticos propuestos por emtech
+Repositorio para casos prácticos propuestos por EMTECH INSTITUTE.
